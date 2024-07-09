@@ -1,0 +1,22 @@
+.menu-h ul{
+    list-style: none;
+    padding: 0 25%;
+    background-color: #2E8B57;   
+  }
+  
+  .menu-h ul li{
+    display: inline;
+  }
+  
+  .menu-h ul li a{
+    color: 	#F0FFF0;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background ,2s; 
+  }
+  
+  .menu-h ul li a:hover{
+    background-color: #3CB371;
+    
+  }
